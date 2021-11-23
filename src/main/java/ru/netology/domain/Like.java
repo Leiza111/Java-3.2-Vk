@@ -2,7 +2,9 @@ package ru.netology.domain;
 
 public class Like {
     private int count;
-    private boolean userLikes;
+    private int userLikes;
+    private int canLike;
+    private int canPublish;
 
     //getters + setters
 }
